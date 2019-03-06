@@ -1,2 +1,1 @@
-a=input()
-print(len(a))
+print(len(input()))
